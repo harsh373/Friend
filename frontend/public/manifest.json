@@ -1,6 +1,6 @@
 {
-  "name": "Harsh's Journal",
-  "short_name": "Journal",
+  "name": "horizon",
+  "short_name": "horizon",
   "description": "A private archive of my life.",
   "start_url": "/",
   "display": "standalone",

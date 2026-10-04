@@ -69,7 +69,7 @@ export default function AppShell() {
               >
                 <Menu size={20} strokeWidth={1.75} />
               </button>
-              <span className="text-[15px] font-semibold tracking-tight">Harsh&apos;s Journal</span>
+              <span className="text-[15px] font-semibold tracking-tight">horizon</span>
             </div>
           </header>
 
