@@ -1,12 +1,11 @@
 import {
   BookOpen,
-  ChartColumn,
   Compass,
   Image as PhotosIcon,
   ListChecks,
   Lock,
   Moon,
-  Search,
+  
  
   Sparkles,
   Sun,
@@ -34,8 +33,7 @@ const NAV: NavEntry[] = [
   { label: "Tracks", to: "/tracks", icon: CalendarCheck },
   { label: "Side Quests", to: "/side-quests", icon: Compass },
   { label: "Photos", to: "/photos", icon: PhotosIcon },
-  { label: "Stats", to: "/stats", icon: ChartColumn },
-  { label: "Search", to: "/search", icon: Search },
+  
   { label: "Insights", to: "/insights", icon: Sparkles },
 ];
 
@@ -71,7 +69,7 @@ export default function Sidebar({ onNavigate }: SidebarProps) {
   return (
     <div className="flex h-full flex-col pt-[env(safe-area-inset-top)]">
       <div className="px-5 pb-4 pt-6">
-        <h1 className="text-[15px] font-semibold tracking-tight">Harsh&apos;s Journal</h1>
+        <h1 className="text-[15px] font-semibold tracking-tight">horizon</h1>
       </div>
 
       <div className="flex-1 overflow-y-auto pb-4">

@@ -33,7 +33,7 @@ export default function Gate() {
     <main className="flex min-h-screen items-center justify-center px-6 pb-[env(safe-area-inset-bottom)] pt-[env(safe-area-inset-top)]">
       <div className="fade-up w-full max-w-sm text-center">
         <h1 className="text-[40px] font-light leading-tight tracking-tight sm:text-5xl">
-          Harsh&apos;s Journal
+          horizon
         </h1>
         <p className="mt-3 text-[17px] text-secondary">A private archive of my life.</p>
 
